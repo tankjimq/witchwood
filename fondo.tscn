@@ -1746,3 +1746,10 @@ position = Vector2(344.00003, -112)
 
 [node name="Node2D2" parent="NUBES" instance=ExtResource("2_l5324")]
 position = Vector2(2066.4204, 59.829548)
+
+[node name="NUBES2" parent="." instance=ExtResource("2_l5324")]
+position = Vector2(731.6667, 65.50001)
+scale = Vector2(0.2790123, 0.25432092)
+
+[node name="Node2D2" parent="NUBES2" instance=ExtResource("2_l5324")]
+position = Vector2(2066.4204, 59.829548)
